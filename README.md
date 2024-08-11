@@ -1,5 +1,3 @@
-
-```markdown
 # SwiftUI Calculator App
 
 This is a simple calculator app built using SwiftUI. The app supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
