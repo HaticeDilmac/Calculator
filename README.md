@@ -1,6 +1,4 @@
 
-### English README
-
 ```markdown
 # SwiftUI Calculator App
 
@@ -23,11 +21,10 @@ This is a simple calculator app built using SwiftUI. The app supports basic arit
 
 1. Clone the repository to your local machine.
 2. Open the project in Xcode.
-3. Run the app on an iOS simulator or a physical device.
+3. Run the app on an iOS simulator or a physical device. 
 
-## Screenshots
-
-Add screenshots of your app here to give users a preview of the UI.
+## ScreenShot
+<img width="311" alt="calculator" src="https://github.com/user-attachments/assets/25f1e0c5-5e04-44e8-9e21-fa13dfe43a5f">
 
 ## License
 
@@ -64,7 +61,7 @@ Bu, SwiftUI kullanılarak oluşturulmuş basit bir hesap makinesi uygulamasıdı
 
 ## Ekran Görüntüleri
 
-Kullanıcılara kullanıcı arayüzünü önizlemek için buraya uygulamanızın ekran görüntülerini ekleyin.
+<img width="311" alt="calculator" src="https://github.com/user-attachments/assets/25f1e0c5-5e04-44e8-9e21-fa13dfe43a5f">
 
 ## Lisans
 
